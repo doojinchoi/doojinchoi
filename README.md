@@ -1,16 +1,32 @@
-## Hi there 👋
+# DOOJIN CHOI
 
-<!--
-**doojinchoi/doojinchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Firmware Engineer  
+Battery Management Systems  
+Power Electronics Solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- STM32
+- BQ769x2
+- CAN / RS485
+- Embedded C
+- Functional Safety
+- Battery Management Systems
+- Power Electronics
+- DC-DC Converters
+- Robotics Power Systems
+
+---
+
+## Organization
+
+POWERCRAFT  
+https://github.com/powercraft-global
+
+---
+
+## Website
+
+https://www.powercraft.co.kr
