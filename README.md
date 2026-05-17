@@ -1,22 +1,25 @@
 # DOOJIN CHOI
 
-Power Embedded Firmware Engineer  
+Embedded Firmware Engineer  
 Battery Management Systems  
-Power Electronics Solutions
+Power Electronics Circuit Design and Applications  
 
 ---
 
 ## Technologies
 
-- Microcontroller
-- BQ769x2 & ETC
+- Microcontrollers
+- BQ769x2 and Battery Monitoring ICs
 - CAN / RS485
 - Embedded C
 - Functional Safety
 - Battery Management Systems
-- Power Electronics
+- Power Electronics Circuit Design
 - DC-DC Converters
+- Inverters
+- Battery Chargers
 - Robotics Power Systems
+- Industrial Power Applications
 
 ---
 
