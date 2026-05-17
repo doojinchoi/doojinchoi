@@ -1,6 +1,6 @@
 # DOOJIN CHOI
 
-Embedded Firmware Engineer  
+Power Embedded Firmware Engineer  
 Battery Management Systems  
 Power Electronics Solutions
 
@@ -8,8 +8,8 @@ Power Electronics Solutions
 
 ## Technologies
 
-- STM32
-- BQ769x2
+- Microcontroller
+- BQ769x2 & ETC
 - CAN / RS485
 - Embedded C
 - Functional Safety
